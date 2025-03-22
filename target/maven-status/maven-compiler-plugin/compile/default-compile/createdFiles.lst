@@ -1,0 +1,6 @@
+com/linkedin/scraper/models/profiledata.class
+com/linkedin/scraper/config.class
+com/linkedin/scraper/excelwriter.class
+com/linkedin/scraper/scraper.class
+com/linkedin/scraper/Main.class
+com/linkedin/scraper/App.class
